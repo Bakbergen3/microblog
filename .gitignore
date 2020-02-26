@@ -1,6 +1,7 @@
 __pycache__
 migrations/
 
+*vscode
 *env
 *csv
 *xlsx
